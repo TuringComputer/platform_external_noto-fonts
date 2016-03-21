@@ -1,0 +1,1 @@
+# platform_external_noto-fonts
